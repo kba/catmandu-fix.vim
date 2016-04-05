@@ -7,4 +7,5 @@ setlocal suffixesadd+=fix
 setlocal noexpandtab
 setlocal listchars=tab:\|\ ,trail:!
 setlocal list
+setlocal iskeyword+=$
 setlocal tabstop=4
