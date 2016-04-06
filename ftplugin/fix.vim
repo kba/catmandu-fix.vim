@@ -8,4 +8,5 @@ setlocal noexpandtab
 setlocal listchars=tab:\|\ ,trail:!
 setlocal list
 setlocal iskeyword+=$
+setlocal iskeyword+=*
 setlocal tabstop=4

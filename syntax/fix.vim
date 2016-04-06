@@ -9,7 +9,7 @@ syn match fixDelim '=>'
 syn match fixDelim ','
 
 syn keyword fixConstant _id _r
-syn keyword fixInline $append
+syn keyword fixInline $first $last $append $prepend *
 
 syn keyword fixBind
 	\ benchmark
